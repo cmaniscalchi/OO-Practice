@@ -26,7 +26,7 @@ Here's what we need to be able to do.
 
 **Gym**
 
-  - Get a list of all gyms
+  - Get a list of all gyms -->
 
   - Get a list of all memberships at a specific gym
 
